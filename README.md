@@ -1,3 +1,3 @@
 # ecp-banco-24h-projeto-1
-object-oriented programming course project of the Data Science and Artificial Intelligence course. This project aims to build a prototype of the 24h bank.
-Had some problems with UTF-8 in VS code lol
+Projeto da disciplina de Programação Orientada a Objetos do curso de Ciência de Dados e Inteligência Artificial. Este projeto visa construir um protótipo do banco 24h em sua versão mais avançada e com funções ainda não implementadas na versão do banco 24h do mundo real. Tive alguns problemas com UTF-8 durante a construção do código enquanto usava
+VS Code.
